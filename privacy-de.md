@@ -4,7 +4,7 @@ ACom Datenschutz - Android App
 Berechtigungen
 --------
 > **Standort**
-> ACom benötigt keine Standortinformationen für die Anzeige des Verkehrsflusses. Wenn Sie jedoch die Positionsanzeige aktivieren (Button "Track") werden Standortdaten erhoben. Sie können einstellen, ob diese Daten per nur per WiFi (ungenau) oder per WiFi & GPS erhoben werden sollen (Einstellungen->Ortung). 
+> ACom benötigt keine Standortinformationen für die Anzeige des Verkehrsflusses. Wenn Sie jedoch die Positionsanzeige aktivieren (Button "Track") werden Standortdaten erhoben. Sie können einstellen, ob diese Daten nur per WiFi (ungenau) oder per WiFi & GPS erhoben werden sollen (Einstellungen->Ortung). 
 > Weiterhin verwenden wir für die Kartendarstellung das Google Maps SDK mit der dort vereinbarten Datenschutzerklärung ([Link][1]).
 > Sie können die Freigabe und Nutzung des Standorts über die Systemeinstellungen jederzeit ändern.
 
