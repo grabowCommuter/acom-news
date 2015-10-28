@@ -19,7 +19,8 @@ You can modify the rights for acquiring location information via the system sett
 
 > **In-App-Billing**
 > You can move from the free-version to the premium version of ACom.
-> 
+
+
 Google Analytics
 --------------------
 
