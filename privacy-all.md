@@ -1,4 +1,4 @@
-ACom Privacy Policy - Android App [^German]
+ACom Privacy Policy - Android App 
 ============================= 
 
 Permissions
@@ -35,10 +35,12 @@ Google AdMob
 - The premium-version of ACom is free of advertising and we don't activate Google's AdMod service in the premium version. You can upgrade from free- to premium version via our In-App-Billing process.
 
 -------------
+German translation [here](https://github.com/grabowCommuter/acom-news/blob/master/privacy-de.md).
+
+---------------
 Written with [StackEdit](https://stackedit.io/).
 
 
- [^German]: German translation [here](https://github.com/grabowCommuter/acom-news/blob/master/privacy-de.md).
 
 [1]: http://www.google.com/policies/privacy/
 [2]: https://www.google.com/admob/
