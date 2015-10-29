@@ -1,5 +1,5 @@
-ACom Privacy Policy - Android App
-=============================
+ACom Privacy Policy - Android App [^German]
+============================= 
 
 Permissions
 --------
@@ -37,6 +37,8 @@ Google AdMob
 -------------
 Written with [StackEdit](https://stackedit.io/).
 
+
+ [^German]: German translation [here](https://github.com/grabowCommuter/acom-news/blob/master/privacy-de.md).
 
 [1]: http://www.google.com/policies/privacy/
 [2]: https://www.google.com/admob/
