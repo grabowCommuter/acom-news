@@ -8,8 +8,8 @@ Berechtigungen
 > Weiterhin verwenden wir für die Kartendarstellung das Google Maps SDK mit der dort vereinbarten Datenschutzerklärung ([Link][1]).
 > Sie können die Freigabe und Nutzung des Standorts über die Systemeinstellungen jederzeit ändern.
 
-> **USB-Speicherinhalte**
-> Wir speichern die geladenen PlugIns in das lokale Verzeichnis der App ab. Wir greifen zu keinem Zeitpunkt auf Fotos oder andere Mediainhalte zu.
+> **Zustand des Netzwerks**
+> Wir überprüfen ob Sie online oder offline sind. Dafür benötigen wird Zugeriff auf den Netzwerkzustand.
 
 > **Netzwerkzugriff**
 > Zum Laden der Karten, News, PlugIns und weiterer Inhalte benötigen wir vollen Netzwerkzugriff.
