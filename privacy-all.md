@@ -3,21 +3,21 @@ ACom Privacy Policy - Android App
 
 Permissions
 --------
-> **Location**
+> **ACCESS_FINE_LOCATION**
 > ACom does not require location information for drawing the map with its traffic information. However, if you activate the tracking (Button -> "Track") location information will be acquired. You can choose, if location information is acquired via WiFi-only or via GPS & WiFi (Settings -> Location). 
 > We use the Google Maps SDK for drawing the maps. For the privacy policy of the Google Maps SDK look [here] [1] .
 You can modify the rights for acquiring location information via the system settings anytime.
 
-> **USB-Storage**
-> Downloaded PlugIns are stored in the apps local storage. We do not access photos or other media at any time.
+> **ACCESS_NETWORK_STATE**
+> We must detect wether you are online or offline. 
 
-> **Network access**
+> **INTERNET**
 > For loading the maps, plugIns, news or other content, we require full network access.
 
-> **Sleepmode**
+> **WAKE_LOCK**
 > You can prevent the phone from sleeping through Settings  -> Sleepmode. 
 
-> **In-App-Billing**
+> **BILLING**
 > You can move from the free-version to the premium version of ACom.
 
 
